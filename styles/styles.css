@@ -1,0 +1,73 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3vh;
+}
+
+section {
+    min-height: 80vh;
+}
+
+a {
+    font-size: 1vw;
+    padding-left: 1vw;
+    margin-right: 1vw;
+}
+
+.logo {
+    padding-left: 3vw;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(194, 193, 193);
+}
+
+.texto {
+    width: 60vw;
+}
+
+.textosP {
+    display: flex;
+    flex-direction: column;
+}
+
+.containerPrinc {
+    display: flex;
+    margin-left: 5vw;
+    margin-top: 2vw;
+}
+
+.tableSize {
+    width: 70vw;
+    margin-left: 10vw;
+}
+
+.tablasAtt {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.attendanceBody {
+    display: flex;
+}
+
+p {
+    font-size: 20px;
+}
+
+.imagenPrinc {
+    margin-top: 10vw;
+    margin-left: 10%;
+}
+
+ul {
+    background-color: rgb(194, 193, 193);
+}
+
